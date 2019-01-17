@@ -22,9 +22,11 @@ header {
     overflow-wrap: break-word;
     padding: 25px 200px;
     font-size: 25px;
-    margin-bottom: 120px;
+    letter-spacing: 1px;
+    height: 338px;
     
 }
+
 
 
 .box {
